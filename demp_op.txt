@@ -7,4 +7,12 @@ Hello Peeps!!!
 print("test for restore")
 
 
+<<<<<<< HEAD
 iop
+=======
+iop
+
+Klopp
+
+print("test")
+>>>>>>> 5427dcc (test1)
